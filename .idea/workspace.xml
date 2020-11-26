@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3a5b292-94cb-4c39-919c-3f5b9ad4dc0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1ZIHZn3xNk0Z6S3gslnghUFKwzV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3a5b292-94cb-4c39-919c-3f5b9ad4dc0d" name="Default Changelist" comment="" />
+      <created>1584519745902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584519745902</updated>
+      <workItem from="1584519747298" duration="21094000" />
+      <workItem from="1584605289895" duration="28028000" />
+      <workItem from="1584691468704" duration="11430000" />
+      <workItem from="1584890477572" duration="209000" />
+      <workItem from="1584890768652" duration="10865000" />
+      <workItem from="1585039238582" duration="768000" />
+      <workItem from="1585825858819" duration="171000" />
+      <workItem from="1585834343762" duration="6000" />
+      <workItem from="1585927858718" duration="878000" />
+      <workItem from="1593509072664" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2140" y="-224" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584626184453">
+      <screen x="1440" y="-527" width="1920" height="1007" />
+    </state>
+    <state x="2140" y="-224" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.-527.1920.1007@1440.-527.1920.1007" timestamp="1584626184453" />
+    <state x="538" y="363" key="NewPhpFileDialog" timestamp="1584891057374">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="538" y="363" key="NewPhpFileDialog/0.23.1440.827@0.23.1440.827" timestamp="1584891057374" />
+    <state x="368" y="182" width="703" height="508" key="find.popup" timestamp="1584900720558">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="368" y="182" width="703" height="508" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1584900720558" />
+    <state x="368" y="182" width="703" height="509" key="find.popup/0.23.1440.828@0.23.1440.828" timestamp="1584896982586" />
+    <state x="469" y="205" width="670" height="556" key="search.everywhere.popup" timestamp="1584893612298">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="469" y="205" width="670" height="556" key="search.everywhere.popup/0.23.1440.827@0.23.1440.827" timestamp="1584893612298" />
+    <state x="2065" y="-305" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/1440.-527.1920.1007@1440.-527.1920.1007" timestamp="1584698180092" />
+  </component>
+</project>
